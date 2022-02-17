@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering, data analytics and machine learning.
 - 🌱 I’m currently learning the three mentioned above.
 - 💞️ I’m looking to collaborate on any project that caught my interest.
-- 📫 How to reach me ... hmmm... will update you soon :)
+- 📫 You can visit my temporary website at https://iamembs.github.io/eve-temp/.
 
 <!---
 embs47/embs47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
